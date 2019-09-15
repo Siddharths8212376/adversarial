@@ -3,7 +3,8 @@ Generative Adversarial Networks
 
 This repository contains the code and hyperparameters for the paper:
 
-**"Generative Adversarial Networks"**. Ian J. Goodfellow, Jean Pouget-Abadie,
+#### **Generative Adversarial Networks** 
+Ian J. Goodfellow, Jean Pouget-Abadie,
 Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville,
 Yoshua Bengio. ArXiv 2014.
 
